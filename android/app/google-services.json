@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579843733682",
+    "project_id": "karyaone-3504f",
+    "storage_bucket": "karyaone-3504f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579843733682:android:9ecf2c95c9af43bdd871ab",
+        "android_client_info": {
+          "package_name": "com.example.karyaone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579843733682-1cbfd78o89phr4sqvo1tac0n0bik6bfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn62KG69Q6nuN1jlIR6l_W4wQS3rf5KBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579843733682-1cbfd78o89phr4sqvo1tac0n0bik6bfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
